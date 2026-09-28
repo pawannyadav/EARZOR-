@@ -1,0 +1,6 @@
+{
+  "name": "ERAZOR",
+  "description": "Smart college queue-management mobile application. Skip physical lines and manage campus services digitally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
